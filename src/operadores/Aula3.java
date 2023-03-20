@@ -13,6 +13,9 @@ public class Aula3 {
 		
 		numero = -1 * numero;
 		System.out.println(numero);
+		
+		numero = 5 * numero;
+		System.out.println(numero);
 	}
 
 }
