@@ -17,7 +17,7 @@ public class Aula3 {
 		numero = 5 * numero;
 		System.out.println(numero);
 		
-		System.out.println(numero % 2);
+		
 	}
 
 }
